@@ -17,6 +17,7 @@ El proyecto consiste en un sitio web con las siguientes secciones:
 - **Páginas Favoritas:** Lista de tres de mis sitios web favoritos.
 - **Películas Favoritas:** Tabla con mis películas preferidas y detalles sobre ellas.
 - **Playlist Favorita:** Enlace a mi playlist favorita.
+- **Juego de Trivia:** Juego trivia con preguntas personales.
 
 ## Demo
 [Ver demo en GitHub Pages](https://bautistaaris.github.io/Identikit-Bautista-Aris/)
